@@ -41,3 +41,19 @@ Servicios: Guías y consejos para la práctica segura y efectiva de deportes rec
 ## **Descripcion Personal**
 _"Apasionado por el deporte y el bienestar, me dedico a ofrecer productos y servicios que inspiran y apoyan a cada persona en su viaje deportivo. Desde equipamiento de alta calidad hasta asesoría personalizada, mi objetivo es ayudarte a alcanzar tus metas y disfrutar cada paso del camino."_
 
+# Referencia
+
+1. Nike
+Razón: Líder en la industria del deporte con un diseño web innovador, excelente integración de productos y una sólida estrategia de marca.
+
+2. Under Armour
+Razón: Conocido por su ropa deportiva de alto rendimiento, ofrece una experiencia de usuario centrada en la tecnología y el rendimiento.
+
+3. Adidas
+Razón: Ofrece una amplia gama de productos deportivos y tiene un enfoque en la sostenibilidad, con un diseño web atractivo y funcional.
+
+4. Reebok
+Razón: Famoso por su enfoque en el fitness y el entrenamiento, proporciona un sitio con una experiencia de compra intuitiva y recursos de entrenamiento.
+
+5. Sports Direct
+Razón: Gran variedad de productos deportivos a precios competitivos, con un enfoque en ofrecer opciones accesibles para todos los niveles de deportistas.
