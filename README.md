@@ -43,17 +43,17 @@ _"Apasionado por el deporte y el bienestar, me dedico a ofrecer productos y serv
 
 # Referencia
 
-1. Nike
+### 1. Nike
 Razón: Líder en la industria del deporte con un diseño web innovador, excelente integración de productos y una sólida estrategia de marca.
 
-2. Under Armour
+### 2. Under Armour
 Razón: Conocido por su ropa deportiva de alto rendimiento, ofrece una experiencia de usuario centrada en la tecnología y el rendimiento.
 
-3. Adidas
+### 3. Adidas
 Razón: Ofrece una amplia gama de productos deportivos y tiene un enfoque en la sostenibilidad, con un diseño web atractivo y funcional.
 
-4. Reebok
+### 4. Reebok
 Razón: Famoso por su enfoque en el fitness y el entrenamiento, proporciona un sitio con una experiencia de compra intuitiva y recursos de entrenamiento.
 
-5. Sports Direct
+### 5. Sports Direct
 Razón: Gran variedad de productos deportivos a precios competitivos, con un enfoque en ofrecer opciones accesibles para todos los niveles de deportistas.
