@@ -57,3 +57,6 @@ Razón: Famoso por su enfoque en el fitness y el entrenamiento, proporciona un s
 
 ### 5. Sports Direct
 Razón: Gran variedad de productos deportivos a precios competitivos, con un enfoque en ofrecer opciones accesibles para todos los niveles de deportistas.
+
+## *Enlace de Trellos
+[Enlace al Tablero de Trabajo](https://trello.com/invite/b/66d6376fc4a37991f9abd917/ATTId5117d65faf9aa025ceceb420b0abc8e7BF0CB07/panadeportes)
